@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Packages
 flutter pub add uuid
+flutter pub add intl
